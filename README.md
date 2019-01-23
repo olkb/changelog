@@ -18,6 +18,9 @@
   * No in-switch LEDs
   * Speaker tied to two outputs
   * Many footprints for addons
+* rev 6.1
+  * USB-C to USB-C bi-directionality fixed
+  * Sturdier 2u stabiliser holes
   
 ## Preonic PCBs
 
